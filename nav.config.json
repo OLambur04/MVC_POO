@@ -3,17 +3,17 @@
     {
       "id": "Menu_SignIn",
       "nav_url": "index.php?page=Sec_Login",
-      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Iniciar Sesión"
+      "nav_label": "<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Iniciar Sesión"
     },
-     {
+    {
       "id": "Menu_SignUp",
       "nav_url": "index.php?page=Sec_Register",
-      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Crear Cuenta"
+      "nav_label": "<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Crear Cuenta"
     },
     {
       "id": "Menu_Products",
       "nav_url": "index.php?page=Products_Products",
-      "nav_label":"<i class=\"fas fa-table\"></i>&nbsp;WW Productos"
+      "nav_label": "<i class=\"fas fa-table\"></i>&nbsp;WW Productos"
     },
     {
       "id": "Menu_Users",
@@ -29,11 +29,16 @@
       "id": "Menu_Functions",
       "nav_url": "index.php?page=Functions_Functions",
       "nav_label": "<i class=\"fas fa-cogs\"></i>&nbsp;Funciones"
+    },
+    {
+      "id": "Menu_Generator",
+      "nav_url": "index.php?page=Generator_Generator",
+      "nav_label": "<i class=\"fas fa-magic\"></i>&nbsp;Generador CRUD"
     }
   ],
   "private": [
     {
-      "id":"Menu_PaymentCheckout",
+      "id": "Menu_PaymentCheckout",
       "nav_url": "index.php?page=Checkout_Checkout",
       "nav_label": "Carretilla de Compra"
     }
